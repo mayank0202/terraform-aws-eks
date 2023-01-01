@@ -1,5 +1,5 @@
 # terraform-aws-eks
-Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources
+Terraform module to create an Elastic Kubernetes (EKS) cluster with associated resources
 
 - [EKS Reference Architecture](https://github.com/clowdhaus/eks-reference-architecture)
 
