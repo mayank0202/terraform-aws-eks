@@ -1,4 +1,4 @@
-[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/mayank0202/terraform-aws-eks/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=mayank0202%2Fterraform-aws-eks&benchmark=INFRASTRUCTURE+SECURITY)
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/mayank0202/terraform-aws-eks/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=mayank0202%2Fterraform-aws-eks&benchmark=INFRASTRUCTURE+SECURITY).  [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/mayank0202/terraform-aws-eks/cis_aws)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=mayank0202%2Fterraform-aws-eks&benchmark=CIS+AWS+V1.2)
 
 
 # terraform-aws-eks
