@@ -6,7 +6,7 @@ Terraform module to create an Elastic Kubernetes (EKS) cluster with associated r
 
 - [EKS Reference Architecture](https://github.com/clowdhaus/eks-reference-architecture)
 
-## Available Features
+## Features
 
 - AWS EKS Cluster Addons
 - AWS EKS Identity Provider Configuration
