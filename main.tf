@@ -18,9 +18,7 @@ locals {
   enable_cluster_encryption_config = length(var.cluster_encryption_config) > 0 && !local.create_outposts_local_cluster
 }
 
-################################################################################
-# Cluster
-################################################################################
+
 
 resource "aws_eks_cluster" "this" {
   count = local.create ? 1 : 0
